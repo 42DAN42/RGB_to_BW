@@ -18,12 +18,30 @@ pip install Pillow tkinter
 
 Пример использования
 
-![Main window](Screenshots/1 Main window.png)
-![Chosen image](Screenshots/2 Chosen image.png)
-![Making changes](Screenshots/3 Making changes .png)
-![Results](Screenshots/4 Results.png)
-![Another changes](Screenshots/5 Another changes.png)
-![Alternative results](Screenshots/6 Alternative results.png)
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/2a4ff4e3-5c4c-4577-8521-1ad12ad1e542?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/a7f5e4f8-07e2-47c6-b165-0daf6961d367?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/42158597-7258-4ea8-b930-df1abfed45ed?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/195097e2-b130-4065-a836-f30306eef59e?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/23b417da-8cfe-4d44-b271-07520dac7670?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/e311a43b-9217-43b0-98aa-5dfc3bc88916?raw=true">
+</p>
+
 
 
 Автор
@@ -39,8 +57,5 @@ pip install Pillow tkinter
 - GitHub: https://github.com/42DAN42
 - Telegram: @I_DAN_I
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/coffeeratingbot)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/coffeeratingbot)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/coffeeratingbot)
-```
+
 
