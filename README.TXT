@@ -57,5 +57,55 @@ pip install Pillow tkinter
 - GitHub: https://github.com/42DAN42
 - Telegram: @I_DAN_I
 
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/1%20Main%20window.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/2%20Chosen%20image.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/3%20Making%20changes%20.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/4%20Results.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/5%20Another%20changes.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/6%20Alternative%20results.png?raw=true">
+</p>
+
+
+
+
+<p align="center">
+  <img width="500px" src="assets/1%20Main%20window.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="assets/2%20Chosen%20image.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="assets/3%20Making%20changes%20.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="assets/4%20Results.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="assets/5%20Another%20changes.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="500px" src="assets/6%20Alternative%20results.png?raw=true">
+</p>
 
 
