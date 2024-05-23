@@ -16,39 +16,11 @@ pip install Pillow tkinter
 Сохранение результатов: После преобразования, вы можете сохранить результат в форматах PNG или JPEG, нажав соответствующую кнопку.
 
 
-Пример использования
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/2a4ff4e3-5c4c-4577-8521-1ad12ad1e542?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/a7f5e4f8-07e2-47c6-b165-0daf6961d367?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/42158597-7258-4ea8-b930-df1abfed45ed?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/195097e2-b130-4065-a836-f30306eef59e?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/23b417da-8cfe-4d44-b271-07520dac7670?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/48235315/e311a43b-9217-43b0-98aa-5dfc3bc88916?raw=true">
-</p>
-
-
+Пример использования приведён в папке Screenshots
 
 Автор
 
 Эту программу создал 42DAN42.
-
-
 
 ## Контакты
 Если у вас есть вопросы или предложения, свяжитесь с нами:
@@ -56,56 +28,5 @@ pip install Pillow tkinter
 - Email: ielektronik98@gmail.com
 - GitHub: https://github.com/42DAN42
 - Telegram: @I_DAN_I
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/1%20Main%20window.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/2%20Chosen%20image.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/3%20Making%20changes%20.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/4%20Results.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/5%20Another%20changes.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="https://github.com/42DAN42/RGB_to_BW/blob/master/assets/6%20Alternative%20results.png?raw=true">
-</p>
-
-
-
-
-<p align="center">
-  <img width="500px" src="assets/1%20Main%20window.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="assets/2%20Chosen%20image.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="assets/3%20Making%20changes%20.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="assets/4%20Results.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="assets/5%20Another%20changes.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="500px" src="assets/6%20Alternative%20results.png?raw=true">
-</p>
 
 
